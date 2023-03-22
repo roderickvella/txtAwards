@@ -4,7 +4,7 @@ A decentralised system that allows educational institutions to issue micro-crede
 
 [Tutorial video](https://youtu.be/HtQByfBWKdA)
 
-[Whitepaper]()
+[Whitepaper](https://github.com/roderickvella/txtAwards/blob/whitepaper/txtAwards_whitepaper.pdf)
 
 ## Release
 The release makes use of the Polygon Blockchain (Mainnet). You don't need to install anything since the project is compiled into a portable application. Educational institutions need some MATIC tokens to award students. For this application, MATIC is only used for gas (transaction) fees which is determined by the supply and demand of the Polygon network. MATIC can be purchased from a cryptocurrency exchange such as coinbase.com. 
