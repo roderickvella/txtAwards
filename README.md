@@ -7,7 +7,7 @@ A decentralised system that allows educational institutions to issue micro-crede
 [Whitepaper]()
 
 ## Release
-The release makes use of the Polygon Blockchain (Mainnet). You don't need to install anything since the project is compiled into a portable application. Educational institutions need some MATIC tokens to award students. MATIC can be purchased from a cryptocurrency exchange such as coinbase.com.
+The release makes use of the Polygon Blockchain (Mainnet). You don't need to install anything since the project is compiled into a portable application. Educational institutions need some MATIC tokens to award students. For this application, MATIC is only used for gas (transaction) fees which is determined by the supply and demand of the Polygon network. MATIC can be purchased from a cryptocurrency exchange such as coinbase.com. 
 
 System makes use of the following endpoints:
  - Infura https://www.infura.io/
@@ -68,3 +68,6 @@ Once the node is up and running,  open the *app* folder in the terminal and run 
 
 Your application should start and you should see the welcome screen.
 
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
